@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hank Up HAHA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				-103
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hank Left HAHA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hank Right HAHA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hank Down HAHA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hank Up HAHA",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HankHAHA",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		40
+	],
+	"camera_position": [
+		-290,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

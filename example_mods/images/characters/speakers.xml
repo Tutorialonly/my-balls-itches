@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speakers.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speakerlmao0000" x="0" y="0" width="1685" height="1358" frameX="0" frameY="0" frameWidth="1795" frameHeight="1358"/>
+	<SubTexture name="speakerlmao0001" x="1685" y="0" width="951" height="660" frameX="-844" frameY="-698" frameWidth="1795" frameHeight="1358"/>
+	<SubTexture name="speakerlmao0002" x="1685" y="0" width="951" height="660" frameX="-844" frameY="-698" frameWidth="1795" frameHeight="1358"/>
+	<SubTexture name="speakerlmao0003" x="2636" y="0" width="949" height="660" frameX="-846" frameY="-698" frameWidth="1795" frameHeight="1358"/>
+	<SubTexture name="speakerlmao0004" x="0" y="1358" width="949" height="660" frameX="-846" frameY="-698" frameWidth="1795" frameHeight="1358"/>
+	<SubTexture name="speakerlmao0005" x="0" y="1358" width="949" height="660" frameX="-846" frameY="-698" frameWidth="1795" frameHeight="1358"/>
+	<SubTexture name="speakerlmao0006" x="0" y="1358" width="949" height="660" frameX="-846" frameY="-698" frameWidth="1795" frameHeight="1358"/>
+	<SubTexture name="speakerlmao0007" x="0" y="1358" width="949" height="660" frameX="-846" frameY="-698" frameWidth="1795" frameHeight="1358"/>
+	<SubTexture name="speakerlmao0008" x="0" y="1358" width="949" height="660" frameX="-846" frameY="-698" frameWidth="1795" frameHeight="1358"/>
+</TextureAtlas>

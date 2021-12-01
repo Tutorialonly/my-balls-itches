@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Hank screamright"
+		},
+		{
+			"offsets": [
+				90,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Hank screamright"
+		},
+		{
+			"offsets": [
+				90,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Hank screamright"
+		},
+		{
+			"offsets": [
+				88,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Hank screamright"
+		},
+		{
+			"offsets": [
+				88,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Hank screamright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HankScream",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		40
+	],
+	"camera_position": [
+		80,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

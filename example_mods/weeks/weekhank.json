@@ -1,0 +1,30 @@
+{
+	"storyName": "ft. hank j. wimbleton",
+	"hideFreeplay": false,
+	"weekBackground": "hankbg",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"hank",
+		""
+	],
+	"songs": [
+		[
+			"accelerant",
+			"hank",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekh"
+}

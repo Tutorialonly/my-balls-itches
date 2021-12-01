@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HankScream.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hank screamright0000" x="0" y="0" width="788" height="603" frameX="0" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0001" x="788" y="0" width="799" height="603" frameX="-20" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0002" x="1587" y="0" width="804" height="603" frameX="-12" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0003" x="2391" y="0" width="778" height="603" frameX="-1" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0004" x="3169" y="0" width="766" height="603" frameX="-12" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0005" x="0" y="603" width="762" height="603" frameX="-20" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0006" x="762" y="603" width="760" height="603" frameX="-25" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0007" x="1522" y="603" width="773" height="603" frameX="-11" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0008" x="2295" y="603" width="771" height="603" frameX="-17" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0009" x="1522" y="603" width="773" height="603" frameX="-11" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0010" x="3066" y="603" width="779" height="603" frameX="-8" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0011" x="1522" y="603" width="773" height="603" frameX="-11" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0012" x="0" y="1206" width="782" height="603" frameX="-6" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0013" x="782" y="1206" width="784" height="603" frameX="0" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0014" x="3066" y="603" width="779" height="603" frameX="-8" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0015" x="1522" y="603" width="773" height="603" frameX="-11" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0016" x="0" y="1206" width="782" height="603" frameX="-6" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0017" x="1522" y="603" width="773" height="603" frameX="-11" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="Hank screamright0018" x="3066" y="603" width="779" height="603" frameX="-8" frameY="0" frameWidth="819" frameHeight="603"/>
+</TextureAtlas>

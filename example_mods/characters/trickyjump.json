@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3009,
+				963
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "trickyjump"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TrickyAssetsJump",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TrickyAssetsJump.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trickyjump0000" x="0" y="0" width="3497" height="1782" frameX="0" frameY="0" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0001" x="3497" y="0" width="4208" height="1358" frameX="-1809" frameY="-423" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0002" x="0" y="1782" width="7235" height="1406" frameX="-1809" frameY="-423" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0003" x="0" y="3188" width="1863" height="1358" frameX="-1809" frameY="-423" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0004" x="1863" y="3188" width="1020" height="967" frameX="-2653" frameY="-814" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0005" x="2883" y="3188" width="1018" height="958" frameX="-2653" frameY="-823" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0006" x="3901" y="3188" width="1016" height="978" frameX="-2655" frameY="-803" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0007" x="4917" y="3188" width="1016" height="980" frameX="-2655" frameY="-801" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0008" x="5933" y="3188" width="1013" height="984" frameX="-2655" frameY="-797" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0009" x="6946" y="3188" width="1013" height="983" frameX="-2655" frameY="-798" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0010" x="0" y="4546" width="1011" height="986" frameX="-2655" frameY="-795" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0011" x="1011" y="4546" width="1011" height="986" frameX="-2655" frameY="-795" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0012" x="1011" y="4546" width="1011" height="986" frameX="-2655" frameY="-795" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0013" x="1011" y="4546" width="1011" height="986" frameX="-2655" frameY="-795" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0014" x="1011" y="4546" width="1011" height="986" frameX="-2655" frameY="-795" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0015" x="1011" y="4546" width="1011" height="986" frameX="-2655" frameY="-795" frameWidth="9044" frameHeight="1829"/>
+	<SubTexture name="trickyjump0016" x="1011" y="4546" width="1011" height="986" frameX="-2655" frameY="-795" frameWidth="9044" frameHeight="1829"/>
+</TextureAtlas>

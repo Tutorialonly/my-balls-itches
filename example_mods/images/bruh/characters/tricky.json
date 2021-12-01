@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				836,
+				570
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "trickyidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				836,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "trickyileft"
+		},
+		{
+			"offsets": [
+				836,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "trickyright"
+		},
+		{
+			"offsets": [
+				836,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "trickydown"
+		},
+		{
+			"offsets": [
+				836,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "trickyup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trickyAssets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.79
+}

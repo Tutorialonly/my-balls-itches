@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TrickyFall.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trickyfall0000" x="0" y="0" width="721" height="1015" frameX="-496" frameY="-90" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0001" x="721" y="0" width="726" height="1017" frameX="-496" frameY="-88" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0002" x="1447" y="0" width="1016" height="1104" frameX="-246" frameY="-1" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0003" x="2463" y="0" width="1086" height="1103" frameX="-183" frameY="-2" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0004" x="3549" y="0" width="1089" height="1008" frameX="-183" frameY="-97" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0005" x="4638" y="0" width="1168" height="1001" frameX="-104" frameY="-104" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0006" x="5806" y="0" width="1202" height="972" frameX="-104" frameY="-133" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0007" x="0" y="1104" width="1253" height="984" frameX="-53" frameY="-121" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0008" x="1253" y="1104" width="1316" height="973" frameX="-26" frameY="-132" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0009" x="2569" y="1104" width="1333" height="866" frameX="0" frameY="-239" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0010" x="3902" y="1104" width="1248" height="755" frameX="-20" frameY="-389" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0011" x="5150" y="1104" width="1248" height="715" frameX="-20" frameY="-478" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0012" x="6398" y="1104" width="1248" height="540" frameX="-20" frameY="-565" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0013" x="0" y="2088" width="1248" height="540" frameX="-20" frameY="-565" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0014" x="1248" y="2088" width="1248" height="540" frameX="-20" frameY="-565" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0015" x="2496" y="2088" width="1248" height="540" frameX="-20" frameY="-565" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0016" x="3744" y="2088" width="778" height="540" frameX="-490" frameY="-565" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0017" x="3744" y="2088" width="778" height="540" frameX="-490" frameY="-565" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0018" x="4522" y="2088" width="778" height="540" frameX="-490" frameY="-565" frameWidth="1342" frameHeight="1193"/>
+	<SubTexture name="trickyfall0019" x="4522" y="2088" width="778" height="540" frameX="-490" frameY="-565" frameWidth="1342" frameHeight="1193"/>
+</TextureAtlas>

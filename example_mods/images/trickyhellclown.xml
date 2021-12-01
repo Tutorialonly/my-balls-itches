@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trickyhellclown.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tricky hellclown0000" x="0" y="0" width="1633" height="1124" frameX="-131" frameY="-599" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0001" x="1633" y="0" width="1633" height="1086" frameX="-131" frameY="-637" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0002" x="3266" y="0" width="1764" height="1051" frameX="0" frameY="-672" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0003" x="3266" y="0" width="1764" height="1051" frameX="0" frameY="-672" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0004" x="5030" y="0" width="1740" height="1186" frameX="-24" frameY="-684" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0005" x="0" y="1186" width="1740" height="1186" frameX="-24" frameY="-684" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0006" x="1740" y="1186" width="1740" height="1245" frameX="-24" frameY="-625" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0007" x="3480" y="1186" width="1777" height="1728" frameX="-106" frameY="0" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0008" x="5257" y="1186" width="1777" height="1137" frameX="-106" frameY="-591" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0009" x="0" y="2914" width="2171" height="1265" frameX="-128" frameY="-607" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0010" x="2171" y="2914" width="2171" height="1289" frameX="-128" frameY="-583" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0011" x="2171" y="2914" width="2171" height="1289" frameX="-128" frameY="-583" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0012" x="4342" y="2914" width="1656" height="1175" frameX="-128" frameY="-555" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0013" x="4342" y="2914" width="1656" height="1175" frameX="-128" frameY="-555" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0014" x="5998" y="2914" width="1636" height="1183" frameX="-128" frameY="-540" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0015" x="5998" y="2914" width="1636" height="1183" frameX="-128" frameY="-540" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0016" x="5998" y="2914" width="1636" height="1183" frameX="-128" frameY="-540" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0017" x="5998" y="2914" width="1636" height="1183" frameX="-128" frameY="-540" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0018" x="5998" y="2914" width="1636" height="1183" frameX="-128" frameY="-540" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0019" x="5998" y="2914" width="1636" height="1183" frameX="-128" frameY="-540" frameWidth="2299" frameHeight="1872"/>
+	<SubTexture name="tricky hellclown0020" x="5998" y="2914" width="1636" height="1183" frameX="-128" frameY="-540" frameWidth="2299" frameHeight="1872"/>
+</TextureAtlas>
